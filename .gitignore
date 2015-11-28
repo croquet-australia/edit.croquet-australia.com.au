@@ -1,0 +1,29 @@
+########################
+# Operating System
+########################
+
+*DS_Store
+thumbs.db
+
+########################
+# Visual Studio
+########################
+
+.vs/
+[Aa]rtifacts/
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+
+*.feature.cs
+
+########################
+# Website development
+########################
+
+bower_components/
+node_modules/
+
+########################
+# Solution specific
+########################
